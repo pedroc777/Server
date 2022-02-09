@@ -1,0 +1,9 @@
+Producto: 
+Número de serie: 1
+Marca: 1
+Modelo: 1
+Tipo de dispositivo: 1
+Precio: 1.0
+Compañía: 1
+Material: 1
+Tipo de carga: 1
